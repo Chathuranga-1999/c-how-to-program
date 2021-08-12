@@ -44,7 +44,7 @@ g) Calculate the remainder after q is divided by divisor and assign the result
 
 h) Print the value 123.4567 with 2 digits of precision. What value is printed?
 
-   printf( "%.2f", 123.4567 ); // 123.45 is displayed
+   printf( "%.2f", 123.4567 ); // 123.46 is displayed
 
 
 i) Print the floating-point value 3.14159 with three digits to the right of the
